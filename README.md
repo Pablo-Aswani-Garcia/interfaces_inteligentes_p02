@@ -9,7 +9,7 @@ Movimientos y cambios de color en tiempos regulares
 
 # Cuestiones
 * duplicas las coordenadas de la dirección del movimiento. 
-  * Se mueve el doble de rápido en esos eje 
+  * Se mueve el doble de rápido en esos ejes
 * duplicas la velocidad manteniendo la dirección del movimiento.
   * Se duplica la velocidad en todos los ejes de dirección
 * la velocidad que usas es menor que 1
