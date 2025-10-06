@@ -8,13 +8,13 @@ Movimientos y cambios de color en tiempos regulares
 ![Diseño final](https://github.com/Pablo-Aswani-Garcia/interfaces_inteligentes_p02/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).gif)
 
 # Cuestiones
-* duplicas las coordenadas de la dirección del movimiento.
-  Se mueve el doble de rápido en esos eje 
+* duplicas las coordenadas de la dirección del movimiento. 
+  * Se mueve el doble de rápido en esos eje 
 * duplicas la velocidad manteniendo la dirección del movimiento.
-  Se duplica la velocidad en todos los ejes de dirección
+  * Se duplica la velocidad en todos los ejes de dirección
 * la velocidad que usas es menor que 1
-  Se reduce la velocidad
+  * Se reduce la velocidad
 * la posición del cubo tiene y>0
-  Se teletransporta al y = 0 ya que el start lo transporta allí
+  *  Se teletransporta al y = 0 ya que el start lo transporta allí
 * intercambiar movimiento relativo al sistema de referencia local y el mundial.
-  Se mueve unas cuantas unidades antes de estabilizarse
+  *  Se mueve unas cuantas unidades antes de estabilizarse
